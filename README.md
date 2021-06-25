@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/faruqismael)  <img src="https://img.shields.io/github/followers/faruqismael?label=Follow" style=" float:left, margin-right:10px" />
 ### simply little about me:
 
-- 🔭 I’m currently working at Hightech.
+- 🔭 currently working at Hightech.
 - 🌱 I’m currently learning Reactjs, Typescript and Computer science 😄.
 - 📫 How to reach me: [telegram](https://t.me/faruqismael)
 - 😄 Pronouns: i love making fun with friends.
