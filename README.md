@@ -4,11 +4,11 @@
 ![Profile views](https://gpvc.arturio.dev/faruqismael)  <img src="https://img.shields.io/github/followers/faruqismael?label=Follow" style=" float:left, margin-right:10px" />
 ### simply little about me:
 
-- 🔭 currently working at Hightech.
-- 🌱 I’m currently learning Reactjs, Typescript and Computer science 😄.
+
+- 🌱  learning Reactjs, Typescript and Computer science 😄.
 - 📫 How to reach me: [telegram](https://t.me/faruqismael)
 - 😄 Pronouns: i love making fun with friends.
-- ⚡ Fun fact: i am hating college education.
+
 
   
 <h3>techs i use [but not expert]</h3>
@@ -32,5 +32,3 @@
 
 
 [![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=faruqismael&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
-
-[![Faruq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@4e796b4a-ea33-4d2a-a7a6-d479d80ee55b)](https://github.com/faruqismael/github-readme-stats)
