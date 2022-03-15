@@ -6,7 +6,7 @@
 
 
 - 🌱  learning Reactjs, Typescript and Computer science 😄.
-- 📫 How to reach me: [telegram](https://t.me/faruqismael)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faruq-ismael-47a40519a/)
 - 😄 Pronouns: i love making fun with friends.
 
 
