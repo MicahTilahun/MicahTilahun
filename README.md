@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-![Profile views](https://gpvc.arturio.dev/faruqismael)  <img src="https://img.shields.io/github/followers/faruqismael?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/faruqismael)  <img src="https://img.shields.io/github/followers/micahtilahun?label=Follow" style=" float:left, margin-right:10px" />
 ### simply little about me:
 
 
-- 🌱  learning Reactjs, Typescript and Computer science 😄.
+- 🌱  learning  MERN
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faruq-ismael-47a40519a/)
 - 😄 Pronouns: i love making fun with friends.
 
@@ -31,4 +31,4 @@
 
 
 
-[![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=faruqismael&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
+[![Micah's github stats](https://github-readme-stats.vercel.app/api?username=micahtilahun&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
