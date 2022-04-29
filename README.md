@@ -6,7 +6,7 @@
 
 
 - 🌱  learning  MERN
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Micah Tilahun-47a40519a/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/micah-tilahun-695107239)
 - 😄 Pronouns: i love making fun with friends.
 
 
