@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ** ReactJs**
 
-- 👨‍💻 All of my projects are available at [mikiyastilahun](https://mikiyastilahun.netlify.app/)
+- 👨‍💻 All of my projects are available at [(https://mikiyastilahun.netlify.app/)]
 
 - 📝  [LinkedIn](https://www.linkedin.com/in/mikiyas-tilahun-695107239/)
 
